@@ -17,4 +17,4 @@ Steps To Run:
     1) run java P3/Server to start the server (Creates F3 at intialization)
     2) run java P1/Client1 to start client 1 (Opens F1 at initialization)
     3) run java P2/Client2 to start client 2 (Opens F2 at initialization)
-After this there should be F3 file in all P folders
+5) After this there should be F3 file in all P folders
