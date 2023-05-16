@@ -8,7 +8,7 @@ a for loop as we know specifically how many message will be sent between client 
 If this was unknown I would have the sender send a close (end) message to indicate the end of 
 transmission. I have the infastructure set up but it is not used do to for loop structure signalling 
 the end of transmission.
--------------------------------------------------------------------------------------------------
+
 Steps To Run:
 1) cd into the D1 folder
 2) run make (Makefile)
